@@ -62159,7 +62159,7 @@ msgstr ""
 #. Key: LegacyTypesDefinition.SereneDispositionLegacy.NameTemplate
 msgctxt "LegacyTypesDefinition.SereneDispositionLegacy.NameTemplate"
 msgid "{1} {0}"
-msgstr ""
+msgstr "{1} {0}"
 
 #. Key: LegacyTypesDefinition.SereneDispositionLegacy.NameTemplatePossessive
 msgctxt "LegacyTypesDefinition.SereneDispositionLegacy.NameTemplatePossessive"
@@ -62209,7 +62209,7 @@ msgstr ""
 #. Key: LegacyTypesDefinition.SpiritAegisLegacy.NameTemplate
 msgctxt "LegacyTypesDefinition.SpiritAegisLegacy.NameTemplate"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. Key: LegacyTypesDefinition.SpiritAegisLegacy.NameTemplatePossessive
 msgctxt "LegacyTypesDefinition.SpiritAegisLegacy.NameTemplatePossessive"
@@ -62261,7 +62261,7 @@ msgstr ""
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.NameTemplate
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.NameTemplate"
 msgid "{1} {0}"
-msgstr ""
+msgstr "{1} {0}"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.NameTemplatePossessive
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.NameTemplatePossessive"
@@ -62271,52 +62271,52 @@ msgstr ""
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.0-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.0-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=BasicClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=BasicClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.1-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.1-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=IntermediateClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=IntermediateClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.2-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.2-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=AdvancedClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=AdvancedClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.3-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.3-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=FireClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=FireClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.4-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.4-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=WaterClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=WaterClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.5-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.5-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=AirClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=AirClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.6-638525885458233647.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.6-638525885458233647.Description"
 msgid "Teaches twice as fast in <slink=EarthClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=EarthClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.7-638525885458243637.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.7-638525885458243637.Description"
 msgid "Teaches twice as fast in <slink=DarkClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=DarkClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.8-638525885458243637.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.8-638525885458243637.Description"
 msgid "Teaches twice as fast in <slink=NatureClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=NatureClassroom>"
 
 #. Key: LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.9-638525885458243637.Description
 msgctxt "LegacyTypesDefinition.SkilledTeacherLegacy.Bonuses.9-638525885458243637.Description"
 msgid "Teaches twice as fast in <slink=LightningClassroom>."
-msgstr ""
+msgstr "สอนเร็วเป็นสองเท่าใน <slink=LightningClassroom>"
 
 #. Key: LegacyTypesDefinition.DetachmentLegacy.DisplayName
 msgctxt "LegacyTypesDefinition.DetachmentLegacy.DisplayName"
@@ -62331,7 +62331,7 @@ msgstr ""
 #. Key: LegacyTypesDefinition.DetachmentLegacy.NameTemplate
 msgctxt "LegacyTypesDefinition.DetachmentLegacy.NameTemplate"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 #. Key: LegacyTypesDefinition.DetachmentLegacy.NameTemplatePossessive
 msgctxt "LegacyTypesDefinition.DetachmentLegacy.NameTemplatePossessive"
@@ -62381,7 +62381,7 @@ msgstr ""
 #. Key: ArtifactTypeNameDefinition.FingerName0.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.FingerName0.ArtifactTypeName"
 msgid "Finger"
-msgstr ""
+msgstr "นิ้ว"
 
 #. Key: ArtifactTypeNameDefinition.FingerName1.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.FingerName1.ArtifactTypeName"
@@ -62431,12 +62431,12 @@ msgstr ""
 #. Key: ArtifactTypeNameDefinition.ClawName3.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.ClawName3.ArtifactTypeName"
 msgid "Nail"
-msgstr ""
+msgstr "เล็บ"
 
 #. Key: ArtifactTypeNameDefinition.WatchName1.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.WatchName1.ArtifactTypeName"
 msgid "Watch"
-msgstr ""
+msgstr "นาฬิกา"
 
 #. Key: ArtifactTypeNameDefinition.WatchName2.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.WatchName2.ArtifactTypeName"
@@ -62456,12 +62456,12 @@ msgstr ""
 #. Key: ArtifactTypeNameDefinition.ToothName1.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.ToothName1.ArtifactTypeName"
 msgid "Tooth"
-msgstr ""
+msgstr "ฟัน"
 
 #. Key: ArtifactTypeNameDefinition.ToothName2.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.ToothName2.ArtifactTypeName"
 msgid "Fang"
-msgstr ""
+msgstr "เขี้ยว"
 
 #. Key: ArtifactTypeNameDefinition.ToothName3.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.ToothName3.ArtifactTypeName"
@@ -62701,7 +62701,7 @@ msgstr "อุ้งเท้า"
 #. Key: ArtifactTypeNameDefinition.FootName3.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.FootName3.ArtifactTypeName"
 msgid "Charm"
-msgstr ""
+msgstr "เครื่องลาง"
 
 #. Key: ArtifactTypeNameDefinition.Necklace3Name1.ArtifactTypeName
 msgctxt "ArtifactTypeNameDefinition.Necklace3Name1.ArtifactTypeName"
